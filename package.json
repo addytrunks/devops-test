@@ -1,0 +1,21 @@
+{
+  "name": "devops-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addytrunks/devops-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addytrunks/devops-test/issues"
+  },
+  "homepage": "https://github.com/addytrunks/devops-test#readme",
+  "description": ""
+}
